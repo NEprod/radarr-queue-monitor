@@ -1,0 +1,72 @@
+# =============================
+# General Python/Pillow Project
+# =============================
+
+# Bytecode and compiled files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+
+# Virtual environment
+venv*/
+env/
+.venv/
+ENV/
+
+# Editor/IDE settings
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Log files and temporary output
+*.log
+*.tmp
+*.bak
+*.swp
+*.tar
+*.img
+*~
+
+# Unit test / coverage
+htmlcov/
+coverage.xml
+*.cover
+.cache/
+.tox/
+.nox/
+pytest_cache/
+
+# Project-generated files
+*.scanned
+*.update
+sku_index.json
+settings.json
+
+# CSV/scan exports (optional)
+*.csv
+
+# Backup / temporary JSON
+*.json.bak
+*.json.tmp
+
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon?
+__MACOSX/
+._*
+
+# Windows system files
+Thumbs.db
+desktop.ini
+
+# Jupyter/IPython files (if any)
+.ipynb_checkpoints/
+
+# Backups and data (optional)
+/backup/
