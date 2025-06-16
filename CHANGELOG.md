@@ -1,3 +1,7 @@
+## v1.0.1 - 2025-06-16
+### Changed
+- Removed versioning scripts from repo and added them to `.gitignore`
+
 ## v1.0.0 - 2025-06-16
 
 ### Added

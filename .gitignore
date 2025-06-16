@@ -70,3 +70,7 @@ desktop.ini
 
 # Backups and data (optional)
 /backup/
+
+# Ignore versioning scripts
+generate_version_changelog.py
+version_bump.py
